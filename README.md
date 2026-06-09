@@ -133,6 +133,22 @@ node index.js
 
 O servidor será iniciado na porta configurada no arquivo `.env` ou na porta 3000 por padrão.
 
+💻 Para testar interação no terminal:
+Acesse a pasta do projeto:
+
+```bash
+cd chatbot-farmacia/bot
+```
+
+Instale as dependências:
+```bash
+npm install express dotenv
+```
+Inicie o servidor:
+```bash
+node demonstracaoTerminal.js
+```
+
 ---
 
 ## 📡 Endpoint
