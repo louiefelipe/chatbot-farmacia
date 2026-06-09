@@ -1,4 +1,4 @@
-const respostas = require('respostas.js');
+const respostas = require('./respostas.js');
 
 function mensagemInicial() {
     return `Olá!
